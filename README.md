@@ -1,4 +1,4 @@
-# Score_Board_Primary
+# Score-Board
 这是我开发的第一个应用，用于学校内的班级小组评分。
 
 程序默认设置为四个小组且不可更改。
